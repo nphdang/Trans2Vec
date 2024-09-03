@@ -15,6 +15,7 @@ This is the implementation of the Trans2Vec method in the paper "Trans2Vec: Lear
 2. Run "trans2vec_joi_classify.py" to embed the transactions into low-dimensional vectors. Please make sure to change the hyper-parameters in the Python code.
 
 # Reference
+```
 @inproceedings{nguyen2018trans2vec,
   title={Trans2vec: learning transaction embedding via items and frequent itemsets},
   author={Nguyen, Dang and Nguyen, Tu Dinh and Luo, Wei and Venkatesh, Svetha},
@@ -23,3 +24,4 @@ This is the implementation of the Trans2Vec method in the paper "Trans2Vec: Lear
   year={2018},
   organization={Springer}
 }
+```
